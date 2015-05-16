@@ -5,9 +5,11 @@ framework для создания аукционов и торговых пло�
 
 http://rethinkdb.com
 
+http://voltdb.com
+
 http://neo4j.com
 
-# messaging system.
+# messaging system
 
 http://kafka.apache.org
 
